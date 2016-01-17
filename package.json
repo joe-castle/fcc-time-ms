@@ -5,13 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "node -- src/backend/",
-    "test": "mocha test/backend --recursive --watch",
+    "test": "mocha --watch",
     "deploy": "git push heroku master"
   },
   "author": "Joe Smith <joesmith0488@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.13.3"
+    "chrono-node": "^1.1.2",
+    "express": "^4.13.3",
+    "moment": "^2.11.1"
   },
   "devDependencies": {
     "chai": "^3.4.1",
