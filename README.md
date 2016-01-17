@@ -6,7 +6,6 @@ Please see challenge page for more info: http://www.freecodecamp.com/challenges/
 npm install
 node src/server.js
 ```
----
 
 Example Usage:
 ```
