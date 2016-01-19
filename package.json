@@ -1,10 +1,10 @@
 {
-  "name": "twitch-app",
+  "name": "timestamp-microservice-project",
   "version": "1.0.0",
   "description": "Twitch App from FCC",
   "main": "index.js",
   "scripts": {
-    "start": "node -- src/backend/server.js",
+    "start": "node -- src/server.js",
     "test": "mocha --watch",
     "deploy": "git push heroku master"
   },
