@@ -1,5 +1,7 @@
 # FCC Timestamp Microservice Project
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joesmith100/fcc-time-ms.svg)](https://greenkeeper.io/)
+
 Please see challenge page for more info: http://www.freecodecamp.com/challenges/timestamp-microservice
 
 ```
